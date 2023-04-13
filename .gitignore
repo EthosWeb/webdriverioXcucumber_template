@@ -1,0 +1,10 @@
+*.log
+node_modules
+errorShots
+coverage
+.idea
+.vscode
+!.vscode/extensions.json
+reporting/rapports/
+package-lock.json
+
